@@ -7,4 +7,4 @@ The project consist in the classification of desagreement responses retrieved by
 
 The project focuses on different ways of preprocessing the text to classify, paying fewer attention to the classifiers used.
 
-The different combinations of preprocessing and classifiers have been experimented on and their results evalued.
+The different combinations of preprocessing and classifiers have been experimented on, and their results evalued.
